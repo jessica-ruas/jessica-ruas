@@ -1,5 +1,5 @@
-### >Olá 👋, eu sou Jéssica Ruas</h1>
-<h3 align="center">Uma analista de dados❤️</h3>
+### Olá 👋, eu sou Jéssica Ruas</h1>
+Uma analista de dados❤️</h3>
 
 <!--
 How to make the bio gif ?

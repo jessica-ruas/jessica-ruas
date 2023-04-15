@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em **minha transição de carreira**
 
-- 🌱 Atualmente estou aprendendo **SQL**
+- 🌱 Atualmente estou aprendendo mais sobre **SQL**
 
 - 👯 Estou a procura de **projetos de analise de dados e business intelligence**
 

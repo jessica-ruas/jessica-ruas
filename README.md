@@ -11,7 +11,7 @@
 
 - 📄 Saiba sobre mim em [https://www.linkedin.com/in/jessica-ruas/](https://www.linkedin.com/in/jessica-ruas/)
 
-- ⚡ Curiosidade sobre mim **Amo esportes e cozinhar**
+- ⚡ Curiosidade sobre mim **amo esportes e cozinhar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

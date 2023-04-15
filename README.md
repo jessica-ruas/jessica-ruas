@@ -5,7 +5,6 @@
 - 🌱 Atualmente estou aprendendo **SQL**
 - 👯 Estou a procura de **projetos de analise de dados e business intelligence**
 - 📫 Fale comigo em **jessicaruas97@gmail.com**
-- 📄 Saiba sobre mim em [https://www.linkedin.com/in/jessica-ruas/](https://www.linkedin.com/in/jessica-ruas/)
 - ⚡ Curiosidade sobre mim **amo esportes e cozinhar**
 - 
 <h3 align="left">Languages and Tools:</h3>

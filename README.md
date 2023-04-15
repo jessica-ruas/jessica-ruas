@@ -1,4 +1,4 @@
-### <h1 align="center">Olá 👋, Eu sou Jéssica Ruas</h1>
+### >Olá 👋, eu sou Jéssica Ruas</h1>
 <h3 align="center">Uma analista de dados❤️</h3>
 
 <!--

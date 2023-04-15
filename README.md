@@ -1,5 +1,6 @@
-### Olá 👋, eu sou Jéssica Ruas</h1>
-Uma analista de dados❤️</h3>
+<p align="center">
+  <img src="https://github.com/jessica-ruas/jessica-ruas/raw/main/assets/header-github.gif" alt="Oi, eu sou a Jéssica">
+</p>
 
 <!--
 How to make the bio gif ?
